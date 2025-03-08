@@ -10,7 +10,7 @@ args = parser.parse_args()
 
 url = args.url
 dest = args.filename
-api_key = "4cD9mA5UNd3SKCxbONA6Cmz48qMIVJ9u9r1vqc78"
+api_key = ""
 
 geturl = f"{url}&api_key={api_key}"
 
