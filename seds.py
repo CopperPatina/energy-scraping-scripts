@@ -5,7 +5,7 @@ import os
 import datetime
 import pandas as pd
 
-api_key = "4cD9mA5UNd3SKCxbONA6Cmz48qMIVJ9u9r1vqc78"
+api_key = ""
 
 init_year = 1960
 
